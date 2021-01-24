@@ -1,0 +1,56 @@
+{
+    "name": "build",
+    "version": "1.0.0",
+    "description": "Build Scripts",
+    "main": "dist/lib.js",
+    "scripts": {
+        "build": "tsc --build ./tsconfig.json"
+    },
+    "directories": {
+        "lib": "src",
+        "test": "tests"
+    },
+    "files": [
+        "src"
+    ],
+    "publishConfig": {
+        "registry": "https://registry.npm.taobao.org/"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.12.10",
+        "@babel/core": "^7.12.10",
+        "@babel/node": "^7.12.10",
+        "@babel/plugin-external-helpers": "^7.12.1",
+        "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+        "@babel/plugin-syntax-object-rest-spread": "^7.8.3",
+        "@babel/plugin-transform-react-jsx": "^7.12.12",
+        "@babel/preset-env": "^7.12.11",
+        "@babel/preset-react": "^7.12.10",
+        "@babel/runtime": "^7.12.5",
+        "@rollup/plugin-babel": "^5.2.2",
+        "@rollup/plugin-dynamic-import-vars": "^1.1.1",
+        "@rollup/plugin-strip": "^2.0.0",
+        "@rollup/plugin-sucrase": "^3.1.0",
+        "@rollup/pluginutils": "^4.1.0",
+        "@rushstack/node-core-library": "^3.35.2",
+        "@types/node": "^14.14.22",
+        "@types/sass": "^1.16.0",
+        "@typescript-eslint/eslint-plugin": "^4.14.0",
+        "@typescript-eslint/parser": "^4.14.0",
+        "eslint": "7.12.1",
+        "eslint-config-standard": "^16.0.2",
+        "eslint-plugin-import": "2.22.1",
+        "eslint-plugin-node": "11.1.0",
+        "eslint-plugin-promise": "4.2.1",
+        "rollup": "^2.38.0",
+        "rollup-plugin-livereload": "^2.0.0",
+        "rollup-plugin-scss": "^2.6.1",
+        "rollup-plugin-typescript2": "^0.29.0",
+        "sass": "^1.32.5",
+        "ts-node": "^9.1.1",
+        "typescript": "^4.1.3"
+    }
+}
