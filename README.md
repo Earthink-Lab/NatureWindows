@@ -1,43 +1,43 @@
-[ English | <a href="https://github.com/NatureWindows/NatureWindows/edit/main/README_zh-cn.md">中</a> ]
+## 如果您觉得这个项目对您有帮助，请给我们一个免费的 Watch 和 Star 吧，这对我们非常重要。 
 
-## If you think this project is helpful to you, please give us a free Watch and Star, which are very important to us.
+## 自然窗口——无数合心软件，一个放心来源。
 
-## Natural Window - a source of reassurance for countless software.
+## 官网：naturewindows.earthink.top
 
-## Official Website：naturewindows.earthink.top
+# 项目概述
 
-# Description of project
-[None]
-## Objective perspective
+## 目标远景
 
-Nature Windows is a platform that enables Windows users to find and download high-quality and clean applications. We will not put any commercial advertising and inducement download button, not like what what the Chinese army software park so rogue. We want to do a better than the kernel shell application search and download platform.
+自然窗口（英文名Nature Windows）是一款让广大Windows用户能够查找和下载优质干净的应用程序的平台。我们不会放入任何的商业广告和诱导下载按钮，不会像什么华军软件园什么东西那么流氓。我们希望做一个比果核剥壳好的应用查找和下载的平台。
 
-## Demand
+这个项目要解决中文互联网上的那些奇葩的下载站那些很难受的问题，比如广告和诱导链接。我们提供一个简洁明快的解决方案，来让用户可以轻松找到想要的软件，不必煞费苦心。
 
-- Edit recommended software can be displayed on the home page, you can click to visit the details page
-- Can search software by category
-- Search software by keyword
-- Visit the software details page and download it
+## 需求
 
-## Release condition
+- 可以在首页展示编辑推荐软件，可以点击访问详情页面
+- 可以分类检索软件
+- 以关键词搜索软件
+- 访问软件详情页并可以下载
 
-- Achieve all of the above requirements
-- There are more than fifty programs in the software library
-- The official website has been set up, and the channels for user feedback are smooth
-- There are no more than five known bugs
-- Will release on August 8
+## 发布条件
 
-## Advice to follow the schedule
+- 达成上述全部需求
+- 软件库中有超过五十个软件
+- 官网全部搭建完毕，用户反馈等渠道畅通
+- 已知Bug不多于五个
+- 在八月八日发布
 
-| Date | To Do |
+## 建议遵循日程
+
+| 日期 | 要做的事 |
 |  ----  | ----  |
-| 6.29 | end the UI |
-| 7.10 | First internal alpha |
-| 7.20 | Second internal alpha |
-| 7.30 | Third internal alpha |
-| 8.5 | Completion of official website |
-| 8.8 | Patch |
+| 6.29 | 结束UI |
+| 7.10 | 第一个内部alpha |
+| 7.20 | 第二个内部alpha |
+| 7.30 | 第三个内部alpha |
+| 8.5 | 官网完成 |
+| 8.8 | 上线 |
 
-## Note to Developers
+## 开发者须知
 
-For documentation related to development, see the Wiki.
+一切和开发有关的文档，请看Wiki。
