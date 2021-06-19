@@ -1,4 +1,7 @@
 [ English | <a href="https://github.com/NatureWindows/NatureWindows/edit/main/README_zh-cn.md">中</a> ]
+
+## If you think this project is helpful to you, please give us a free Watch and Star, which are very important to us.
+
 ## Natural Window - a source of reassurance for countless software.
 
 ## Official Website：naturewindows.earthink.top
