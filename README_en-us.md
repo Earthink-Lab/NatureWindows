@@ -1,4 +1,4 @@
-[ English | <a href="https://github.com/NatureWindows/NatureWindows/bolb/main/README.md">中</a> ]
+[ English | <a href="https://github.com/NatureWindows/NatureWindows/blob/main/README.md">中</a> ]
 
 ## If you think this project is helpful to you, please give us a free Watch and Star, which are very important to us.
 
