@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'SourceSans';
+    src: url("./SourceHanSansSC-Bold.otf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SourceSans';
+    src: url("./SourceHanSansSC-Regular.otf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'SourceSans';
+    src: url("./SourceHanSansSC-ExtraLight.otf");
+    font-weight: lighter;
+}
