@@ -11,5 +11,29 @@
   "license": "MIT",
   "dependencies": {
     "electron": "^13.1.2"
+  },
+  "build": {
+    "mac": {
+      "icon": "./style/ic.ico"
+    },
+    "win": {
+      "icon": "./style/ic.ico"
+    },
+    "linux": {
+      "icon": "./style/ic.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "guid": "idea",
+      "perMachine": true,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true,
+      "installerIcon": "./style/ic.ico",
+      "uninstallerIcon": "./style/ic.ico",
+      "installerHeaderIcon": "./style/ic.ico",
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "idea"
+    }
   }
 }

@@ -7,11 +7,15 @@ const path = require('path')
 function createWindow () {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1370,
+    height: 770,
+    minWidth: 1366,
+    minHeight: 768,
+    autoHideMenuBar: true,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
-    }
+    },
+    icon: path.join(__dirname, './style/ic.ico'),
   })
 
   // and load the index.html of the app.
