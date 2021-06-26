@@ -1,43 +1,67 @@
 [ English | <a href="https://github.com/NatureWindows/NatureWindows/blob/main/README.md">中</a> ]
 
-## If you think this project is helpful to you, please give us a free Watch and Star, which are very important to us.
+## If you think this project is helpful, please give us a free watch and star.
 
-## Natural Window - a source of reassurance for countless software.
+## Natural window - countless heart software, a source of confidence.
 
-## Official Website：naturewindows.earthink.top
+## Official website: naturewindows.earthink.top
 
-# Description of project
-[None]
-## Objective perspective
+# Project overview
 
-Nature Windows is a platform that enables Windows users to find and download high-quality and clean applications. We will not put any commercial advertising and inducement download button, not like what what the Chinese army software park so rogue. We want to do a better than the kernel shell application search and download platform.
+## Goal and vision
 
-## Demand
+Natural windows is a platform for Windows users to find and download high quality and clean applications. We won't put in any commercial advertisement and induced download button, and we won't be as hooligan as anything in Huajun software park. We hope to be a better platform for application search and download than kernel peeling.
 
-- Edit recommended software can be displayed on the home page, you can click to visit the details page
-- Can search software by category
-- Search software by keyword
-- Visit the software details page and download it
+This project is to solve the most difficult problems of those wonderful download stations on the Chinese Internet, such as advertising and induced links. We provide a simple and bright solution, so that users can easily find the software they want, without any trouble.
 
-## Release condition
+## Requirements (priority from high to low)
 
-- Achieve all of the above requirements
-- There are more than fifty programs in the software library
-- The official website has been set up, and the channels for user feedback are smooth
-- There are no more than five known bugs
-- Will release on August 8
+-Visit the software details page to display the software developer, profile and comments
 
-## Advice to follow the schedule
+-Download the software and display the download status
 
-| Date | To Do |
-|  ----  | ----  |
-| 6.29 | end the UI |
-| 7.10 | First internal alpha |
-| 7.20 | Second internal alpha |
-| 7.30 | Third internal alpha |
-| 8.5 | Completion of official website |
-| 8.8 | Patch |
+-Search software with keywords
 
-## Note to Developers
+-Show editor's recommendation on home page
 
-For documentation related to development, see the Wiki.
+-Multi category retrieval software
+
+-View the natural window about page
+
+-When the natural window is updated, it will be prompted to update
+
+## Program structure
+
+-Front end user interface
+
+-Software library (using OSS, which needs to be strictly demonstrated)
+
+## Release conditions
+
+-Achieve the above requirements
+
+-There are more than 50 software in the software library
+
+-All official websites have been built, and user feedback channels are unblocked
+
+-There are no more than five known bugs
+
+-The preview will be released on July 20
+
+-The official beta will be released on August 8
+
+## Milestone
+
+|Date | what to do|
+
+| ---- | ---- |
+|6.26 | end UI|
+|7.10 | first internal alpha|
+|7.20 | second internal alpha, preview|
+|7.30 | third internal alpha|
+|8.5 | official website completed|
+|8.8 | Online|
+
+## Developer's note
+
+We use electron as our development tool. For the rest of the development related documentation, see wiki.
