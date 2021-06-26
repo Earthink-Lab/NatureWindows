@@ -1,8 +1,12 @@
 
 
-<div align="center" style="padding: 50px;">
+<div id="logo" align="center">
+  <br/><br/><br/>
 <img src="https://cdn-heycrab.crabapi.cn/staticnw/style/%E7%BB%84%2041.png" width="500px" align="center">
+  <br/><br/><br/>
 </div>
+
+
 
 [English Docs](https://github.com/NatureWindows/NatureWindows/blob/main/README_en-us.md)
 
