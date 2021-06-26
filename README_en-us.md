@@ -2,7 +2,7 @@
 
 ## If you think this project is helpful, please give us a free watch and star.
 
-## Natural window - countless heart software, a source of confidence.
+## NatureWindows - countless heart software, a source of care.
 
 ## Official website: naturewindows.earthink.top
 
@@ -10,7 +10,7 @@
 
 ## Goal and vision
 
-Natural windows is a platform for Windows users to find and download high quality and clean applications. We won't put in any commercial advertisement and induced download button, and we won't be as hooligan as anything in Huajun software park. We hope to be a better platform for application search and download than kernel peeling.
+NatureWindows is a platform for Windows users to find and download high quality and clean applications. We won't put in any commercial advertisement and induced download button, and we won't be as hooligan as anything in "Huajun software centre". We hope to be a better platform for application search and download than Guoheboke.
 
 This project is to solve the most difficult problems of those wonderful download stations on the Chinese Internet, such as advertising and induced links. We provide a simple and bright solution, so that users can easily find the software they want, without any trouble.
 
@@ -34,7 +34,7 @@ This project is to solve the most difficult problems of those wonderful download
 - Achieve the above requirements
 - There are more than 50 software in the software library
 - All official websites have been built, and user feedback channels are unblocked
-- There are no more than five known bugs
+- There are no more than five known problems
 - The preview will be released on July 20
 - The official beta will be released on August 8
 
@@ -42,13 +42,13 @@ This project is to solve the most difficult problems of those wonderful download
 
 |Date | what to do|
 | ---- | ---- |
-|6.26 | end UI|
-|7.10 | first internal alpha|
-|7.20 | second internal alpha, preview|
-|7.30 | third internal alpha|
-|8.5 | official website completed|
-|8.8 | Online|
+|6.26 | end UI |
+|7.10 | first internal alpha |
+|7.20 | second internal alpha, preview |
+|7.30 | third internal alpha |
+|8.5 | official website completed |
+|8.8 | finish all |
 
 ## Developer's note
 
-We use electron as our development tool. For the rest of the development related documentation, see wiki.
+We use electron as our development tool. For the rest of the development related documentation, see Wiki.
