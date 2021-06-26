@@ -6,7 +6,14 @@
   <br/><br/><br/>
 </div>
 
-
+<center>
+<img src="https://img.shields.io/badge/By-Earthink-green" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/NatureWindows/NatureWindows/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/NatureWindows/NatureWindows"></a>
+<a href="https://github.com/NatureWindows/NatureWindows/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/NatureWindows/NatureWindows"></a>
+<a href="https://github.com/NatureWindows/NatureWindows/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/NatureWindows/NatureWindows"></a>
+<a href="https://github.com/NatureWindows/NatureWindows/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NatureWindows/NatureWindows"></a>
+</center>
 
 [English Docs](https://github.com/NatureWindows/NatureWindows/blob/main/README_en-us.md)
 
