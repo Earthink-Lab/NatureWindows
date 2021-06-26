@@ -1,13 +1,5 @@
 [ <a href="https://github.com/NatureWindows/NatureWindows/blob/main/README_en-us.md">English</a> | 中 ]
 
-## 如果您觉得这个项目对您有帮助，请给我们一个免费的 Watch 和 Star 吧。
-
-## 如果你希望参与项目，请[点击这里](https://jq.qq.com/?_wv=1027&k=Yh8sIZIP "加入自然窗口项目组")加群。
-
-## 自然窗口——无数合心软件，一个放心来源。
-
-## 官网：naturewindows.earthink.top
-
 # 项目概述
 
 ## 目标远景
@@ -54,3 +46,11 @@
 ## 开发者须知
 
 我们使用 Electron 作为我们的应用程序框架。其余一切和开发有关的文档，请看Wiki。
+
+#### 如果您觉得这个项目对您有帮助，请给我们一个免费的 Watch 和 Star 吧。
+
+#### 如果你希望参与项目，请[点击这里](https://jq.qq.com/?_wv=1027&k=Yh8sIZIP "加入自然窗口项目组")加群。
+
+#### 自然窗口——无数合心软件，一个放心来源。
+
+#### 官网：[naturewindows.earthink.top](https://naturewindows.earthink.top)
