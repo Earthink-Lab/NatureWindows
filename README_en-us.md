@@ -17,43 +17,30 @@ This project is to solve the most difficult problems of those wonderful download
 ## Requirements (priority from high to low)
 
 -Visit the software details page to display the software developer, profile and comments
-
 -Download the software and display the download status
-
 -Search software with keywords
-
 -Show editor's recommendation on home page
-
 -Multi category retrieval software
-
 -View the natural window about page
-
 -When the natural window is updated, it will be prompted to update
 
 ## Program structure
 
 -Front end user interface
-
 -Software library (using OSS, which needs to be strictly demonstrated)
 
 ## Release conditions
 
 -Achieve the above requirements
-
 -There are more than 50 software in the software library
-
 -All official websites have been built, and user feedback channels are unblocked
-
 -There are no more than five known bugs
-
 -The preview will be released on July 20
-
 -The official beta will be released on August 8
 
 ## Milestone
 
 |Date | what to do|
-
 | ---- | ---- |
 |6.26 | end UI|
 |7.10 | first internal alpha|
